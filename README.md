@@ -1,15 +1,15 @@
 # Desteeny Organization Website
 
-A modern, responsive website for the Desteeny organization, which helps immigrants in the US communicate effectively and achieve their dreams of higher education through mentorship, volunteer programs, and community support.
+A modern, responsive website for the Desteeny organization, which connects people through skill sharing and community collaboration. We bring together individuals who want to teach and learn from each other, while also volunteering with local organizations to make a positive impact.
 
 ## 🌟 Features
 
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
 - **Modern UI**: Clean, professional design with smooth animations
 - **Three Main Pages**:
-  - **Home**: Introduction, mission, and impact statistics
+  - **Home**: Introduction, mission, and community impact
   - **About**: Organization story, values, programs, and team
-  - **Get Involved**: Volunteer opportunities and application form
+  - **Join Our Community**: Ways to get involved and Google Form application
 - **Interactive Elements**: Mobile navigation, form handling, and smooth scrolling
 - **Accessibility**: Keyboard navigation and screen reader friendly
 
@@ -17,12 +17,13 @@ A modern, responsive website for the Desteeny organization, which helps immigran
 
 ```
 cursorwebsite/
-├── index.html          # Home page
-├── about.html          # About page
-├── involvement.html    # Get Involved page
-├── styles.css          # Main stylesheet
-├── script.js           # JavaScript functionality
-└── README.md           # This file
+├── index.html              # Home page
+├── about.html              # About page
+├── involvement.html        # Join Our Community page
+├── styles.css              # Main stylesheet
+├── script.js               # JavaScript functionality
+├── google-form-template.md # Google Form setup instructions
+└── README.md               # This file
 ```
 
 ## 🚀 Hosting on GitHub Pages
@@ -98,6 +99,7 @@ The website uses a blue color scheme. To change colors, edit the CSS variables i
 - **Statistics**: Modify the impact numbers in `index.html`
 - **Team Members**: Update team information in `about.html`
 - **Programs**: Customize program descriptions in `about.html`
+- **Google Form**: Set up the application form using the template in `google-form-template.md`
 
 ### Images
 To add real images:
@@ -137,6 +139,13 @@ If you need help with:
 - **Customization**: Modify the HTML and CSS files as needed
 - **Adding features**: The code is well-commented and modular
 
+## 📄 License
+
+This website template is created for the Desteeny organization. Feel free to modify and use for your own organization.
+
+---
+
+**Desteeny** - Connecting people through skill sharing and community collaboration. 
 ## 📄 License
 
 This website template is created for the Desteeny organization. Feel free to modify and use for your own organization.
