@@ -237,3 +237,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 }); 
+        
+        element.addEventListener('blur', function() {
+            this.style.outline = 'none';
+        });
+    });
+}); 
